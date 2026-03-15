@@ -1,0 +1,39 @@
+/* div 1 css */
+.box1{
+    background-color: rgb(77, 210, 255);
+}
+
+/* div 2 css */
+.box2{
+
+    background-color: #ccccff;
+}
+
+/* div 3 css */
+.box3{
+    background-color: hsl(220, 100%, 75%);
+}
+.box3 h2{
+    height: 50px;
+}
+
+/* div 4 css */
+.box4{
+    background-color: #ffb3d9;
+}
+
+/* div 5 css */
+.box5{
+    background-color: #00ffbf;
+}
+.box5 button{
+    padding: 20px;
+    background-color: rgb(201, 246, 201);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* div 7 css */
+.box7{
+    background-color: rgb(213, 128, 255);
+}
